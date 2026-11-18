@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://jamieluik.github.io/seinhuis/"><img src="banner.svg" alt="Seinhuis – seinen opzoeken, oefenen en zelf samenstellen" width="100%"></a>
+  <a href="https://jamieluik.github.io/seinhuis/"><img src="banner.svg" alt="Seinhuis – seinen opzoeken, oefenen, samenstellen en rijden" width="100%"></a>
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 ---
 
-**Seinhuis** is een webpagina om de seinen langs het Nederlandse spoor op te zoeken, te leren en zelf samen te stellen. Alles staat in één pagina: je hebt geen account of app nodig, en het werkt op de computer en op de telefoon.
+**Seinhuis** is een webpagina om de seinen langs het Nederlandse spoor op te zoeken, te leren, zelf samen te stellen en ermee te oefenen op een gesimuleerde rit. Alles staat in één pagina: je hebt geen account of app nodig, en het werkt op de computer en op de telefoon.
 
 ## Seinenboek
 
@@ -33,6 +33,15 @@ Na multiple choice en flashcards krijg je een verslag als PDF. In het Seinenboek
 ## Seinenbouwer
 
 Stel stap voor stap een sein samen: plaatsing, soort sein, kleur, knipperen, cijferbak, P-sein en seinnummerbord. Je kunt zelf het nummer op het bord invullen. Combinaties die niet bestaan staan grijs, met uitleg waarom. Je ziet meteen welk sein uit het Seinenboek erbij hoort, en je kunt het resultaat **exporteren als PNG**.
+
+## Rijden op Seinen Oefenen
+
+Oefen het rijden op seinen met een zelfgemaakte rit (op een tablet of computer).
+
+- **Missiegenerator:** maak een route met stations, seinen, snelheidsborden en seinbeelden, eventueel met gedoofde of onjuiste seinen. Met de **missiecode** deel je een rit of rijd je hem opnieuw.
+- **Seinen langs de route** met hectometerborden, kenborden en de snelheid bij elk sein; **exporteer de missie als PDF**.
+- **Start oefening:** rijd de missie sein voor sein en kies binnen vijf seconden wat je doet: afremmen, versnellen, stoppen, rijden op zicht of **de treindienstleider bellen**, inclusief de **European Instruction (EI1)**.
+- Na afloop een **overzicht** met je antwoorden, tijden en uitleg bij fouten, ook als PDF.
 
 ## Verder
 
